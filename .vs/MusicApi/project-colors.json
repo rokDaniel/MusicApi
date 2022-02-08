@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b6565adc-1c5c-483c-9433-86c9fdec5566": {
+      "ProjectGuid": "b6565adc-1c5c-483c-9433-86c9fdec5566",
+      "DisplayName": "MusicApi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
